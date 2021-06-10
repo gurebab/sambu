@@ -1,0 +1,262 @@
+%!Adobe-FontList 1.19
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumMyeongjoBold
+FamilyName:NanumMyeongjo
+StyleName:Bold
+FullName:NanumMyeongjoBold
+MenuName:나눔명조
+StyleBits:0
+FamilyNameNative:나눔명조
+StyleNameNative:Bold
+FullNameNative:나눔명조 Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NMm-bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4183592
+FileModTime:1411618060
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumMyeongjo Bold
+NameArray:3,Mac,4,나눔명조 Bold
+NameArray:3,Mac,18,나눔명조 Bold
+NameArray:0,Win,1,NanumMyeongjo
+NameArray:0,Win,16,NanumMyeongjo
+NameArray:3,Win,1,나눔명조
+NameArray:3,Win,16,나눔명조
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Bold
+FamilyName:Noto Sans KR
+StyleName:Bold
+FullName:Noto Sans KR Bold
+MenuName:Noto Sans KR
+StyleBits:2
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Bold
+FullNameNative:Noto Sans KR Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NotoSansKR-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4909620
+FileModTime:1517756400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Light
+FamilyName:Noto Sans KR
+StyleName:Light
+FullName:Noto Sans KR Light
+MenuName:Noto Sans KR Light
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Light
+FullNameNative:Noto Sans KR Light
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NotoSansKR-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4713884
+FileModTime:1517756400
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Light
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Regular
+FamilyName:Noto Sans KR
+StyleName:Regular
+FullName:Noto Sans KR
+MenuName:Noto Sans KR
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Regular
+FullNameNative:Noto Sans KR Regular
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NotoSansKR-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4744644
+FileModTime:1517756400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acB
+FamilyName:NanumSquare_ac
+StyleName:Bold
+FullName:NanumSquare_ac Bold
+MenuName:나눔스퀘어_ac Bold
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:Bold
+FullNameNative:나눔스퀘어_ac Bold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NSac-body.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:640036
+FileModTime:1509008900
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac Bold
+NameArray:3,Mac,4,나눔스퀘어_ac Bold
+NameArray:0,Win,1,NanumSquare_ac Bold
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac Bold
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acL
+FamilyName:NanumSquare_ac
+StyleName:Light
+FullName:NanumSquare_ac Light
+MenuName:나눔스퀘어_ac Light
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:Light
+FullNameNative:나눔스퀘어_ac Light
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NSac-etc.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:657488
+FileModTime:1509008884
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac Light
+NameArray:3,Mac,4,나눔스퀘어_ac Light
+NameArray:0,Win,1,NanumSquare_ac Light
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac Light
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acR
+FamilyName:NanumSquare_ac
+StyleName:Regular
+FullName:NanumSquare_ac Regular
+MenuName:나눔스퀘어_ac
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:Regular
+FullNameNative:나눔스퀘어_ac Regular
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NSac-nomar.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:646720
+FileModTime:1509008908
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac Regular
+NameArray:3,Mac,4,나눔스퀘어_ac Regular
+NameArray:3,Mac,18,나눔스퀘어_ac
+NameArray:0,Win,1,NanumSquare_ac
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumSquare_acEB
+FamilyName:NanumSquare_ac
+StyleName:ExtraBold
+FullName:NanumSquare_ac ExtraBold
+MenuName:나눔스퀘어_ac ExtraBold
+StyleBits:0
+FamilyNameNative:나눔스퀘어_ac
+StyleNameNative:ExtraBold
+FullNameNative:나눔스퀘어_ac ExtraBold
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\NSac-title.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:633248
+FileModTime:1509008892
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumSquare_ac ExtraBold
+NameArray:3,Mac,4,나눔스퀘어_ac ExtraBold
+NameArray:0,Win,1,NanumSquare_ac ExtraBold
+NameArray:0,Win,16,NanumSquare_ac
+NameArray:3,Win,1,나눔스퀘어_ac ExtraBold
+NameArray:3,Win,16,나눔스퀘어_ac
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Typo_SsangmunDong_B
+FamilyName:Typo_SsangmunDong
+StyleName:B
+FullName:Typo_SsangmunDong B
+MenuName:타이포_쌍문동 B
+StyleBits:0
+FamilyNameNative:타이포_쌍문동
+StyleNameNative:B
+FullNameNative:타이포_쌍문동 B
+WritingScript:Korean
+OutlineFileName:D:\포트폴리오 준비 할 거\sambu\Font\superB.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1022308
+FileModTime:1620111160
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Typo_SsangmunDong B
+NameArray:0,Win,16,Typo_SsangmunDong
+NameArray:3,Win,1,타이포_쌍문동 B
+NameArray:3,Win,16,타이포_쌍문동
+%EndFont
+
